@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -29,4 +30,7 @@ If you are developing a production application, we recommend updating the config
 =======
 # my_digital_business_card
 A repo to hold my react project a digital business card
+>>>>>>> origin/main
+=======
+# test
 >>>>>>> origin/main
